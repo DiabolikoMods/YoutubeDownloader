@@ -8,7 +8,9 @@
     <a href="#license">License</a>
 </p>
 
-![screen](https://github.com/DiabolikoMods/YoutubeDownloader/assets/114475600/660ad591-652b-4fa2-b9a4-1bc1fc2cd1af)
+
+![Screen](https://github.com/DiabolikoMods/YoutubeDownloader/assets/114475600/2fbe2b60-d45a-4d5f-83d5-f972ca051296)
+
 
 ## Key Features
 
